@@ -395,7 +395,13 @@ For this component to work properly you need to have the following libraries ins
 npm install --save reactstrap
 npm install --save bootstrap
 ```
+## Publish
 
+```
+npm run build:webpack
+npm publish --access public
+
+```
 
 [CHANGELOG]: ./CHANGELOG.md
 
