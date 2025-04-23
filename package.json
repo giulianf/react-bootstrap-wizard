@@ -1,5 +1,5 @@
 {
-    "name": "react-bootstrap-wizard",
+    "name": "@ulegalize/react-bootstrap-wizard",
     "version": "0.0.9",
     "description": "A react component package that allows you to split a complicated flow or a complicated form in multiple steps.",
     "main": "dist/index.js",
@@ -39,7 +39,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/creativetimofficial/react-wizard.git"
+        "url": "git+https://github.com/giulianf/react-bootstrap-wizard.git"
     },
     "devDependencies": {
         "@babel/cli": "7.12.10",
